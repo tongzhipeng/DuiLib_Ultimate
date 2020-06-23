@@ -361,3 +361,6 @@ FodyWeavers.xsd
 /Temp/SRelease/DuiLib.tlog
 *.exp
 *.tlog
+
+#cmake
+build/
